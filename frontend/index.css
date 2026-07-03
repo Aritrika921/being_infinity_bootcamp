@@ -1,3 +1,24 @@
 h1{
     color: red
 }
+
+/*property : value */
+#home-intro{
+    text-align:center;
+
+  /*  border: 3px;
+    border-color:black;
+    border-style:solid;*/
+    /*color: blue;*/
+    border: 3px solid black;
+    background-color: aqua;
+
+}
+
+#home-intro:hover{
+    background-color: rgb(250, 165, 165);
+}
+
+#p2{
+    color: blue;
+}
